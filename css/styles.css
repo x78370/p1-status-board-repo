@@ -1,10 +1,22 @@
-h1 {	
+h1 {
+	font-size: 1.5em;
 	font-family: 'Open Sans Condensed', sans-serif;
-	font-size: 1em; 
-	}
+}
+p {
+	font-size: .75em;
+	font-family: 'Open Sans Condensed', sans-serif;
+}
 
 body {
-	background: url('../img/brickwall.png') repeat;
+	background: url('../img/brickwall2x.png') repeat;
 	text-align: center;
 	margin-top:100px;
+}
+li {
+	list-style: none;
+}
+
+img {
+	max-width: 700px;
+	max-height: auto;
 }
