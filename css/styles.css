@@ -2,21 +2,18 @@ h1 {
 	font-size: 1.5em;
 	font-family: 'Open Sans Condensed', sans-serif;
 }
-p {
+p,a {
 	font-size: 1em;
 	font-family: 'Open Sans Condensed', sans-serif;
 }
 
 body {
 	background: url('../img/brickwall2x.png') repeat;
-	text-align: center;
-	margin-top:100px;
-}
-li {
-	list-style: none;
+	text-align: left;
+	margin-top:50px;
 }
 
 img {
-	max-width: 700px;
+	max-width: 800px;
 	max-height: auto;
 }
